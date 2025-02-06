@@ -1,0 +1,4 @@
+﻿  sectors.cpp
+C:\Users\user\Desktop\vs\sectors\sectors\sectors.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\user\Desktop\vs\sectors\sectors\sectors.cpp(14,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  sectors.vcxproj -> C:\Users\user\Desktop\vs\sectors\x64\Debug\sectors.exe
